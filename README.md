@@ -25,4 +25,4 @@ First begin by kicking off the server. Then implement a simple get request on '/
 
 1. Launch Server - `$ node app.js`
 2. Check the various routes on your local host, port 8080.
-3. Implement a get request via curl to test from command line
+3. Implement a get request via curl to test from command line.
