@@ -24,4 +24,5 @@ $ npm install express-basic-auth
 First begin by kicking off the server. Then implement a simple get request on '/' or one of the other methods defined in the source code.
 
 1. Launch Server - `$ node app.js`
-2. Get Request
+2. Check the various routes on your local host, port 8080.
+3. Implement a get request via curl to test from command line
